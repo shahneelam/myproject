@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpsm-tableplugin\n"
+"POT-Creation-Date: 2016-01-05 21:33+0200\n"
+"PO-Revision-Date: 2016-01-05 21:33+0200\n"
+"Last-Translator: Sizam themes <sizamtheme@gmail.com>\n"
+"Language-Team: Wpsoul <sizamtheme@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop:1,2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc/class-wpsm-list-table.php:38
+msgid "ID"
+msgstr ""
+
+#: ../inc/class-wpsm-list-table.php:39
+msgid "Name"
+msgstr ""
+
+#: ../inc/class-wpsm-list-table.php:40 ../inc/class-wpsm-table-maker.php:263
+msgid "Rows"
+msgstr ""
+
+#: ../inc/class-wpsm-list-table.php:41
+msgid "Columns"
+msgstr ""
+
+#: ../inc/class-wpsm-list-table.php:42
+msgid "Sub-headers"
+msgstr ""
+
+#: ../inc/class-wpsm-list-table.php:43
+msgid "Color"
+msgstr ""
+
+#: ../inc/class-wpsm-list-table.php:44
+msgid "Responsive"
+msgstr ""
+
+#: ../inc/class-wpsm-list-table.php:56
+msgid "Edit"
+msgstr ""
+
+#: ../inc/class-wpsm-list-table.php:57 ../inc/class-wpsm-list-table.php:77
+msgid "Delete"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:49
+msgid "Table Maker"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:72 ../inc/class-wpsm-table-maker.php:167
+#: ../inc/class-wpsm-table-maker.php:177
+msgid "Click to edit"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:73
+msgid "Please enter valid numbers"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:74
+msgid "Please fill only one field"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:75
+msgid "Please specify number less than existing rows count"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:76
+msgid "Please specify number less than existing cols count"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:77
+msgid "Please enter valid numbers between 1 and"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:87
+msgid "Add Table"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:87 ../inc/class-wpsm-table-maker.php:91
+msgid "View All"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:91
+msgid "Edit Table"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:97
+msgid "Tables"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:97
+msgid "Add New"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:119
+msgid "Table Name"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:126
+msgid "No"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:127
+msgid "Table row stack"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:128
+msgid "Table column stack"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:130
+msgid "enable responsive stack style for mobile devices"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:133
+msgid "Resize Table"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:134
+msgid "Switch Rows"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:135
+msgid "Switch Cols"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:136
+msgid "Add Inside"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:137
+msgid "Remove"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:139
+msgid "Grey"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:140
+msgid "Black"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:141
+msgid "Yellow"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:142
+msgid "Blue"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:143
+msgid "Red"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:144
+msgid "Green"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:145
+msgid "Orange"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:146
+msgid "Purple"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:148 ../inc/class-wpsm-table-maker.php:233
+msgid "Save Changes"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:159
+msgid "Add \"mark the first column\" class to shortcode"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:160
+msgid "Add \"center text align\" class to shortcode"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:188
+msgid "Each cell supports html and shortcodes. "
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:191
+msgid "To add icons you can use these placeholders: "
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:192
+msgid " makes row or col as featured."
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:195
+msgid "Useful shortcodes:"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:198
+msgid "Possible color attribute:"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:198
+msgid "Possible sizes:"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:198
+msgid "Possible icons:"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:201
+msgid "Nembered circle. Place number in"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:204
+msgid "Possible colors: "
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:207
+msgid "Animated bar. You can use any color"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:210
+msgid "Shows content only for logged users"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:213
+msgid "Shows content only for not logged users"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:220
+msgid "Image Helper"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:221
+msgid "Upload or choose image here and copy code to table"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:223
+msgid "Choose Image"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:235
+msgid "Dublicate Table"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:237
+msgid "Export XML"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:240
+msgid "Create Table"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:250
+msgid "Import XML"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:251
+msgid "Import CSV"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:253
+msgid "\",\" (comma)"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:254
+msgid "\";\" (semi-colon)"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:260
+msgid "Change Table Size"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:262
+msgid "Cols"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:264
+msgid "Sub-header Rows (e.g.1,3,6)"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:265 ../inc/class-wpsm-table-maker.php:286
+#: ../inc/class-wpsm-table-maker.php:293
+msgid "Apply"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:270
+msgid "Row 1"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:271
+msgid "Row 2"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:272 ../inc/class-wpsm-table-maker.php:279
+msgid "Switch"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:277
+msgid "Col 1"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:278
+msgid "Col 2"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:282
+msgid "Add Empty Row/Column"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:284
+msgid "Add empty col after (number)"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:285
+msgid "Add empty row after (number)"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:289
+msgid "Delete Row/Column"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:291
+msgid "Remove col (number)"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:292
+msgid "Remove row (number)"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:370
+msgid "Noname Table"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:386
+msgid "The table has been created successfully!"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:388
+msgid "The table has been updated successfully!"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:390
+msgid "The table has been deleted successfully!"
+msgstr ""
+
+#: ../inc/class-wpsm-table-maker.php:425
+msgid "Please specify the table ID"
+msgstr ""
+
+#~ msgid ""
+#~ "This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+#~ "framework\">Vafpress Framework %s</a> powered by <a href=\"http://"
+#~ "vafpress.com\">Vafpress</a>"
+#~ msgstr " "
